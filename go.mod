@@ -1,3 +1,3 @@
 module github.com/oiooj/paxos
 
-go 1.15
+go 1.12
